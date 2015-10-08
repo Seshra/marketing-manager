@@ -1,0 +1,15 @@
+{
+  "name": "marketing_manager",
+  "version": "1.0.0",
+  "description": "This is the web server for the MArketing Manager web pages",
+  "main": "express_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Rose (@rongway)",
+  "license": "MIT",
+  "dependencies": {
+    "connect-redis": "^3.0.0",
+    "express": "^4.13.3"
+  }
+}
